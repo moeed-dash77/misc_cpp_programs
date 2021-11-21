@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576177934 source:e:\ude stuff\oop\hausaufgabe3(hashfunctions)\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
